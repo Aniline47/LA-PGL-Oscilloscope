@@ -1,0 +1,60 @@
+##### Written on 2024/07/05 01:43:24 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL25G-6MBG324
+
+Top Module : 
+	top_module
+
+Constraint File(s) : 
+	D:/pango/MyProject/oscillosope/prj/oscillosope.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 7 critical warning(s), 0 warning(s), out of 268 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+define_attribute {p:meas_state[1]} {PAP_IO_LOC} {V13}
+	C: ConstraintEditor-2002: [D:/pango/MyProject/oscillosope/prj/oscillosope.fdc(line number: 111)] | Port meas_state[1] has been placed at location V13, whose type is share pin.
+
+define_attribute {p:meas_state[0]} {PAP_IO_LOC} {T8}
+	C: ConstraintEditor-2002: [D:/pango/MyProject/oscillosope/prj/oscillosope.fdc(line number: 118)] | Port meas_state[0] has been placed at location T8, whose type is share pin.
+
+define_attribute {p:time_state[0]} {PAP_IO_LOC} {U13}
+	C: ConstraintEditor-2002: [D:/pango/MyProject/oscillosope/prj/oscillosope.fdc(line number: 153)] | Port time_state[0] has been placed at location U13, whose type is share pin.
+
+define_attribute {p:spi_miso} {PAP_IO_LOC} {R5}
+	C: ConstraintEditor-2002: [D:/pango/MyProject/oscillosope/prj/oscillosope.fdc(line number: 172)] | Port spi_miso has been placed at location R5, whose type is share pin.
+
+define_attribute {p:key_force_trig} {PAP_IO_LOC} {P6}
+	C: ConstraintEditor-2002: [D:/pango/MyProject/oscillosope/prj/oscillosope.fdc(line number: 214)] | Port key_force_trig has been placed at location P6, whose type is share pin.
+
+define_attribute {p:spi_mosi} {PAP_IO_LOC} {T5}
+	C: ConstraintEditor-2002: [D:/pango/MyProject/oscillosope/prj/oscillosope.fdc(line number: 239)] | Port spi_mosi has been placed at location T5, whose type is share pin.
+
+define_attribute {p:state_change_flag} {PAP_IO_LOC} {R8}
+	C: ConstraintEditor-2002: [D:/pango/MyProject/oscillosope/prj/oscillosope.fdc(line number: 249)] | Port state_change_flag has been placed at location R8, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+

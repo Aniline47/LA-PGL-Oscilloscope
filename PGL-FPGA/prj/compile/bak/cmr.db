@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/adc_rd.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/data_packing.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/encoder_drive.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/f_Sa_control.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/fifo_rd.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/fifo_wr.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/ip_fifo.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/key_debounce.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/my_spi_drive.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/state_control.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/top_module.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/force_trig.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/f_measure.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/divider_32.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/rtl/output_shaping.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.idf</data>
+            <data>IP</data>
+        </row>
+        <row>
+            <data>D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.idf</data>
+            <data>IP</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="7">
+        <column_headers>
+            <data>Cpu Time</data>
+            <data>Process Cpu Time</data>
+            <data>Real Time</data>
+            <data>Peak Memory (MB)</data>
+            <data>Operation System</data>
+            <data>CPU</data>
+            <data>RAM(GB)</data>
+        </column_headers>
+        <row>
+            <data>0h:0m:1s</data>
+            <data>0h:0m:1s</data>
+            <data>0h:0m:5s</data>
+            <data>146</data>
+            <data>WINDOWS 10 x86_64</data>
+            <data>AMD Ryzen 7 6800H with Radeon Graphics</data>
+            <data>14</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data message="4">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/adc_rd.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/adc_rd.v(line number: 1)] Analyzing module adc_rd (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/data_packing.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/data_packing.v(line number: 1)] Analyzing module data_packing (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/encoder_drive.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/encoder_drive.v(line number: 1)] Analyzing module encoder_drive (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/f_Sa_control.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/f_Sa_control.v(line number: 1)] Analyzing module f_Sa_control (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/fifo_rd.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/fifo_rd.v(line number: 1)] Analyzing module fifo_rd (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/fifo_wr.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/fifo_wr.v(line number: 1)] Analyzing module fifo_wr (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/ip_fifo.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/ip_fifo.v(line number: 1)] Analyzing module ip_fifo (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/key_debounce.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/key_debounce.v(line number: 1)] Analyzing module key_debounce (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/my_spi_drive.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/my_spi_drive.v(line number: 1)] Analyzing module spi_drive (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/state_control.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/state_control.v(line number: 1)] Analyzing module state_control (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/top_module.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 1)] Analyzing module top_module (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/force_trig.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/force_trig.v(line number: 1)] Analyzing module force_trig (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/f_measure.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/f_measure.v(line number: 1)] Analyzing module f_measure (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/divider_32.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/divider_32.v(line number: 1)] Analyzing module divider_32 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/rtl/output_shaping.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/rtl/output_shaping.v(line number: 1)] Analyzing module output_shaping (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 18)] Analyzing module pll_clk (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v(line number: 22)] Analyzing module ipml_fifo_ctrl_v1_4_async_fifo (library work)</data>
+        </row>
+        <row>
+            <data message="4">[D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v(line number: 52)] Convert attribute name from syn_preserve to PAP_PRESERVE</data>
+        </row>
+        <row>
+            <data message="4">[D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v(line number: 54)] Convert attribute name from syn_preserve to PAP_PRESERVE</data>
+        </row>
+        <row>
+            <data message="4">[D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v(line number: 65)] Convert attribute name from syn_preserve to PAP_PRESERVE</data>
+        </row>
+        <row>
+            <data message="4">[D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v(line number: 67)] Convert attribute name from syn_preserve to PAP_PRESERVE</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 18)] Analyzing module ipml_sdpram_v1_6_async_fifo (library work)</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 307)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 308)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 311)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 315)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 319)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 323)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 327)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 328)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 331)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 332)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 335)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 336)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 339)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 340)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 343)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 344)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 347)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 348)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 351)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 352)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 355)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 356)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 359)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 360)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 363)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 364)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 367)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 368)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 372)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 373)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 376)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 377)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 381)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 382)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 385)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 386)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 389)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 390)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 393)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 394)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 397)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 398)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 403)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 404)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 407)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 408)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 413)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 414)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v(line number: 23)] Analyzing module ipml_fifo_v1_7_async_fifo (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.v(line number: 16)] Analyzing module async_fifo (library work)</data>
+        </row>
+        <row>
+            <data message="4">Module &quot;top_module&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 1)] Elaborating module top_module</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 59)] Elaborating instance u_output_shaping</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/output_shaping.v(line number: 1)] Elaborating module output_shaping</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_output_shaping} parameter value:
+    gate_set_max = 32'b00000000000000000000000000000101</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 67)] Elaborating instance u_f_measure</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/f_measure.v(line number: 1)] Elaborating module f_measure</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_f_measure} parameter value:
+    F_STANDARD = 32'b00001110111001101011001010000000
+    en_pulse_max = 32'b00000111011100110101100101000000
+    gate_set_max = 32'b00000011101110011010110010100000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/f_measure.v(line number: 150)] Elaborating instance u_divider_32</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/divider_32.v(line number: 1)] Elaborating module divider_32</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_f_measure/u_divider_32} parameter value:
+    div_max = 32'b00000000000000000000000000100000</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2019: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 67)] Width mismatch between port f_st_re_div_32 and signal bound to it for instantiated module f_measure</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 75)] Elaborating instance u_force_trig</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/force_trig.v(line number: 1)] Elaborating module force_trig</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_force_trig} parameter value:
+    TIME_500ms = 5'b00000
+    TIME_200ms = 5'b00001
+    TIME_100ms = 5'b00010
+    TIME_50ms = 5'b00011
+    TIME_20ms = 5'b00100
+    TIME_10ms = 5'b00101
+    TIME_5ms = 5'b00110
+    TIME_2ms = 5'b00111
+    TIME_1ms = 5'b01000
+    TIME_500us = 5'b01001
+    TIME_200us = 5'b01010
+    TIME_100us = 5'b01011
+    TIME_50us = 5'b01100
+    TIME_20us = 5'b01101
+    TIME_10us = 5'b01110
+    TIME_5us = 5'b01111
+    TIME_2us = 5'b10000
+    TIME_1us = 5'b10001
+    TIME_500ns = 5'b10010
+    TIME_200ns = 5'b10011
+    TIME_100ns = 5'b10100</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 85)] Elaborating instance u_ip_fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/ip_fifo.v(line number: 1)] Elaborating module ip_fifo</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_ip_fifo} parameter value:
+    delay_max = 32'b00000000000000000000000000000101
+    POINT_NUM = 32'b00000000000000000000000110010000
+    DATA_NUM = 32'b00000000000000000000001100100000
+    RUN = 2'b00
+    SINGLE = 2'b01
+    PAUSE = 2'b10
+    FIFO_IDLE = 5'b10101
+    WR_200x2 = 5'b11101
+    WR_RD_LOOP = 5'b11111
+    RD_400x2 = 5'b10111
+    DIFFERENT = 32'b00000000000000000000001001011110</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/ip_fifo.v(line number: 257)] Elaborating instance u_async_fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.v(line number: 16)] Elaborating module async_fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.v(line number: 162)] Elaborating instance U_ipml_fifo_async_fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v(line number: 23)] Elaborating module ipml_fifo_v1_7_async_fifo</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_ip_fifo/u_async_fifo/U_ipml_fifo_async_fifo} parameter value:
+    c_SIM_DEVICE = LOGOS
+    c_WR_DEPTH_WIDTH = 32'b00000000000000000000000000001010
+    c_WR_DATA_WIDTH = 32'b00000000000000000000000000001000
+    c_RD_DEPTH_WIDTH = 32'b00000000000000000000000000001010
+    c_RD_DATA_WIDTH = 32'b00000000000000000000000000001000
+    c_OUTPUT_REG = 32'b00000000000000000000000000000000
+    c_RD_OCE_EN = 32'b00000000000000000000000000000000
+    c_RESET_TYPE = ASYNC_RESET
+    c_POWER_OPT = 32'b00000000000000000000000000000000
+    c_RD_CLK_OR_POL_INV = 32'b00000000000000000000000000000000
+    c_WR_BYTE_EN = 32'b00000000000000000000000000000000
+    c_BE_WIDTH = 32'b00000000000000000000000000000001
+    c_FIFO_TYPE = ASYN
+    c_ALMOST_FULL_NUM = 32'b00000000000000000000001111111100
+    c_ALMOST_EMPTY_NUM = 32'b00000000000000000000000000000100</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v(line number: 91)] Elaborating instance U_ipml_sdpram</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 18)] Elaborating module ipml_sdpram_v1_6_async_fifo</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_ip_fifo/u_async_fifo/U_ipml_fifo_async_fifo/U_ipml_sdpram} parameter value:
+    c_SIM_DEVICE = LOGOS
+    c_WR_ADDR_WIDTH = 32'b00000000000000000000000000001010
+    c_WR_DATA_WIDTH = 32'b00000000000000000000000000001000
+    c_RD_ADDR_WIDTH = 32'b00000000000000000000000000001010
+    c_RD_DATA_WIDTH = 32'b00000000000000000000000000001000
+    c_OUTPUT_REG = 32'b00000000000000000000000000000000
+    c_RD_OCE_EN = 32'b00000000000000000000000000000000
+    c_WR_ADDR_STROBE_EN = 32'b00000000000000000000000000000000
+    c_RD_ADDR_STROBE_EN = 32'b00000000000000000000000000000000
+    c_WR_CLK_EN = 32'b00000000000000000000000000000001
+    c_RD_CLK_EN = 32'b00000000000000000000000000000001
+    c_RD_CLK_OR_POL_INV = 32'b00000000000000000000000000000000
+    c_RESET_TYPE = ASYNC_RESET
+    c_POWER_OPT = 32'b00000000000000000000000000000000
+    c_INIT_FILE = NONE
+    c_INIT_FORMAT = BIN
+    c_WR_BYTE_EN = 32'b00000000000000000000000000000000
+    c_BE_WIDTH = 32'b00000000000000000000000000000001</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2039: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 472)] Repeat multiplier in concatenation evaluates to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2039: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 474)] Repeat multiplier in concatenation evaluates to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 484)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 485)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 486)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2039: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 620)] Repeat multiplier in concatenation evaluates to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 680)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 681)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 682)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 850)] Elaborating instance U_GTP_DRM9K</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[8] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[9] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[10] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[11] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[12] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[13] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[14] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[15] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[16] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 771)] Net DA_bus[17] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[8] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[9] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[10] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[11] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[12] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[13] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[14] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[15] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[16] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(line number: 772)] Net DB_bus[17] in ipml_sdpram_v1_6_async_fifo(original module ipml_sdpram_v1_6_async_fifo) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v(line number: 119)] Elaborating instance U_ipml_fifo_ctrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v(line number: 22)] Elaborating module ipml_fifo_ctrl_v1_4_async_fifo</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_ip_fifo/u_async_fifo/U_ipml_fifo_async_fifo/U_ipml_fifo_ctrl} parameter value:
+    c_WR_DEPTH_WIDTH = 32'b00000000000000000000000000001010
+    c_RD_DEPTH_WIDTH = 32'b00000000000000000000000000001010
+    c_FIFO_TYPE = ASYN
+    c_ALMOST_FULL_NUM = 32'b00000000000000000000001111111100
+    c_ALMOST_EMPTY_NUM = 32'b00000000000000000000000000000100</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2039: [D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v(line number: 201)] Repeat multiplier in concatenation evaluates to 0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 105)] Elaborating instance u_adc_rd</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/adc_rd.v(line number: 1)] Elaborating module adc_rd</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_adc_rd} parameter value:
+    REAL_SIGN_H = 3'b000
+    REAL_SIGN_L = 3'b000
+    EQUI_SIGN_H = 3'b000
+    EQUI_SIGN_L = 3'b000
+    ADC_F = 32'b00001011111010111100001000000000
+    REAL_F_MIN = 32'b00000000000000000000000000101000
+    REAL_F_DIV = 32'b00000000010011000100101101000000
+    EQUI_F_MAX = 32'b00000000000011110100001001000000
+    EQUI_F_DIV = 32'b00000000000000000000000011001000
+    TIME_500ms = 5'b00000
+    TIME_200ms = 5'b00001
+    TIME_100ms = 5'b00010
+    TIME_50ms = 5'b00011
+    TIME_20ms = 5'b00100
+    TIME_10ms = 5'b00101
+    TIME_5ms = 5'b00110
+    TIME_2ms = 5'b00111
+    TIME_1ms = 5'b01000
+    TIME_500us = 5'b01001
+    TIME_200us = 5'b01010
+    TIME_100us = 5'b01011
+    TIME_50us = 5'b01100
+    TIME_20us = 5'b01101
+    TIME_10us = 5'b01110
+    TIME_5us = 5'b01111
+    TIME_2us = 5'b10000
+    TIME_1us = 5'b10001
+    TIME_500ns = 5'b10010
+    TIME_200ns = 5'b10011
+    TIME_100ns = 5'b10100</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2042: [D:/pango/MyProject/oscillosope/rtl/adc_rd.v(line number: 173)] real 1999999.000000 rounded to int 1999999, which maybe cause simulation mismatch</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 125)] Elaborating instance u_spi_drive</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/my_spi_drive.v(line number: 1)] Elaborating module spi_drive</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_spi_drive} parameter value:
+    IDLE = 32'b00000000000000000000000000000000
+    TRANSFORM = 32'b00000000000000000000000000000001
+    DATA_LEN = 32'b00000000000000000000000000001000
+    POINT_NUM = 32'b00000000000000000000000110010000
+    DATA_NUM = 32'b00000000000000000000001100100000
+    DATA_BIT_TOTAL = 32'b00000000000000000001100100000000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 138)] Elaborating instance u_state_control</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/state_control.v(line number: 1)] Elaborating module state_control</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_state_control} parameter value:
+    RUN = 2'b00
+    SINGLE = 2'b01
+    PAUSE = 2'b10
+    TIME_STATE_MAX = 5'b10100
+    TIME_STATE_MIN = 5'b00011
+    AMPL_STATE_MAX = 4'b1000
+    AMPL_STATE_MIN = 4'b0001</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/state_control.v(line number: 78)] Elaborating instance u_key_debounce_single</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/key_debounce.v(line number: 1)] Elaborating module key_debounce</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_state_control/u_key_debounce_single} parameter value:
+    CNT_MAX = 20'b11000100101101000000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/state_control.v(line number: 86)] Elaborating instance u_key_debounce_run</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/key_debounce.v(line number: 1)] Elaborating module key_debounce</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_state_control/u_key_debounce_run} parameter value:
+    CNT_MAX = 20'b11000100101101000000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/state_control.v(line number: 183)] Elaborating instance u_encoder_drive_time</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/encoder_drive.v(line number: 1)] Elaborating module encoder_drive</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/state_control.v(line number: 252)] Elaborating instance u_encoder_drive_ampl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/encoder_drive.v(line number: 1)] Elaborating module encoder_drive</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/state_control.v(line number: 280)] Elaborating instance u_key_debounce_force_trig</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/rtl/key_debounce.v(line number: 1)] Elaborating module key_debounce</data>
+        </row>
+        <row>
+            <data message="4">Module instance {top_module/u_state_control/u_key_debounce_force_trig} parameter value:
+    CNT_MAX = 20'b11000100101101000000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/rtl/top_module.v(line number: 162)] Elaborating instance u_pll_clk</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 18)] Elaborating module pll_clk</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 232)] Elaborating instance u_pll_e3</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 119)] Net clkfb in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 122)] Net pfden in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 123)] Net clkout0_gate in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 124)] Net clkout0_2pad_gate in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 125)] Net clkout1_gate in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 126)] Net clkout2_gate in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 127)] Net clkout3_gate in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 128)] Net clkout4_gate in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 129)] Net clkout5_gate in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 130)] Net dyn_idiv in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 131)] Net dyn_odiv0 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 132)] Net dyn_odiv1 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 133)] Net dyn_odiv2 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 134)] Net dyn_odiv3 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 135)] Net dyn_odiv4 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 136)] Net dyn_fdiv in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 137)] Net dyn_duty0 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 138)] Net dyn_duty1 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 139)] Net dyn_duty2 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 140)] Net dyn_duty3 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2021: [D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v(line number: 141)] Net dyn_duty4 in pll_clk(original module pll_clk) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2014: [D:/pango/MyProject/oscillosope/rtl/adc_rd.v(line number: 11)] Feedback mux created for signal 'Sa_clk'. It is possible a async set/reset assignment for this is signal missing. To improve timing and area, specify a set/reset value. </data>
+        </row>
+        <row>
+            <data message="5">Sdm-2014: [D:/pango/MyProject/oscillosope/rtl/adc_rd.v(line number: 69)] Feedback mux created for signal 'time_state0'. It is possible a async set/reset assignment for this is signal missing. To improve timing and area, specify a set/reset value. </data>
+        </row>
+        <row>
+            <data message="5">Sdm-2004: [D:/pango/MyProject/oscillosope/rtl/my_spi_drive.v(line number: 33)] Latch is generated for signal next_state, possible missing assignment in an if or case statement.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2014: [D:/pango/MyProject/oscillosope/rtl/ip_fifo.v(line number: 53)] Feedback mux created for signal 'fifo_wr_data'. It is possible a async set/reset assignment for this is signal missing. To improve timing and area, specify a set/reset value. </data>
+        </row>
+        <row>
+            <data message="5">Sdm-2004: [D:/pango/MyProject/oscillosope/rtl/ip_fifo.v(line number: 48)] Latch is generated for signal next_state, possible missing assignment in an if or case statement.</data>
+        </row>
+        <row>
+            <data message="4">Removed inst spi_clk3 that is redundant to spi_clk1.</data>
+        </row>
+        <row>
+            <data message="4">Removed inst spi_clk2 that is redundant to spi_clk0.</data>
+        </row>
+        <row>
+            <data message="4">FSM meas_state_fsm[1:0] inferred.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N76 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N65 (bmsPMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N191_1 (bmsPMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N203_1 (bmsPMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N215_2 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N97 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N3223_1 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N2555 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N2175 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N2972 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+    </table>
+    <general_container id="compile_settings">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL25G-6MBG324</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>top_module</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>SystemVerilog</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Multiple File Compilation Unit</data>
+                        <data>true</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>D:/pango/MyProject/oscillosope/prj	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>
