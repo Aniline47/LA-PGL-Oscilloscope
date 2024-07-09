@@ -1,0 +1,461 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/pango/MyProject/oscillosope/prj/sim/behav
+T_opt
+!s110 1719903517
+VQQRLjN[K4RNDbz<5RGG6P1
+04 13 4 work top_module_tb fast 0
+=1-e00af6a1a5b9-6683a51d-263-4bb4
+o-quiet -auto_acc_if_foreign -work work -L work -L usim -L adc -L ddrc -L ddrphy -L hsst_e2 -L iolhr_dft -L ipal_e1 -L pciegen2 +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vadc_rd
+Z2 !s110 1719903500
+!i10b 1
+!s100 Lc9ZGhKXm5^H0=[W`CIg;2
+IgXJaNz]MSnEM9P3=]G<En2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1719902770
+8D:/pango/MyProject/oscillosope/rtl/adc_rd.v
+FD:/pango/MyProject/oscillosope/rtl/adc_rd.v
+L0 1
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+Z5 !s108 1719903500.000000
+Z6 !s107 D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v|D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.v|D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v|D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v|D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v|D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v|D:/pango/MyProject/oscillosope/rtl/output_shaping.v|D:/pango/MyProject/oscillosope/rtl/divider_32.v|D:/pango/MyProject/oscillosope/rtl/f_measure.v|D:/pango/MyProject/oscillosope/rtl/force_trig.v|D:/pango/MyProject/oscillosope/rtl/top_module.v|D:/pango/MyProject/oscillosope/rtl/state_control.v|D:/pango/MyProject/oscillosope/rtl/my_spi_drive.v|D:/pango/MyProject/oscillosope/rtl/key_debounce.v|D:/pango/MyProject/oscillosope/rtl/ip_fifo.v|D:/pango/MyProject/oscillosope/rtl/fifo_wr.v|D:/pango/MyProject/oscillosope/rtl/fifo_rd.v|D:/pango/MyProject/oscillosope/rtl/f_Sa_control.v|D:/pango/MyProject/oscillosope/rtl/encoder_drive.v|D:/pango/MyProject/oscillosope/rtl/data_packing.v|D:/pango/MyProject/oscillosope/rtl/adc_rd.v|
+Z7 !s90 -reportprogress|300|-work|work|D:/pango/MyProject/oscillosope/rtl/adc_rd.v|D:/pango/MyProject/oscillosope/rtl/data_packing.v|D:/pango/MyProject/oscillosope/rtl/encoder_drive.v|D:/pango/MyProject/oscillosope/rtl/f_Sa_control.v|D:/pango/MyProject/oscillosope/rtl/fifo_rd.v|D:/pango/MyProject/oscillosope/rtl/fifo_wr.v|D:/pango/MyProject/oscillosope/rtl/ip_fifo.v|D:/pango/MyProject/oscillosope/rtl/key_debounce.v|D:/pango/MyProject/oscillosope/rtl/my_spi_drive.v|D:/pango/MyProject/oscillosope/rtl/state_control.v|D:/pango/MyProject/oscillosope/rtl/top_module.v|D:/pango/MyProject/oscillosope/rtl/force_trig.v|D:/pango/MyProject/oscillosope/rtl/f_measure.v|D:/pango/MyProject/oscillosope/rtl/divider_32.v|D:/pango/MyProject/oscillosope/rtl/output_shaping.v|D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v|D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v|D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v|D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v|D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.v|D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vasync_fifo
+R2
+!i10b 1
+!s100 k8Yj2NoEeoW8;;]a]Ia;k1
+IJke:g;W8:Me5T<AQ5YhmM0
+R3
+R0
+Z9 w1719732365
+8D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.v
+FD:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.v
+L0 16
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vdata_packing
+R2
+!i10b 1
+!s100 7lX]AJn8L14I5:ko??PUI2
+ITMh3QIdTcJVI2T64IV>5=0
+R3
+R0
+w1719902894
+8D:/pango/MyProject/oscillosope/rtl/data_packing.v
+FD:/pango/MyProject/oscillosope/rtl/data_packing.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vdivider_32
+R2
+!i10b 1
+!s100 AnXOfi49TkGnO42?8]hFj1
+I;4^3;RgK1zEF=PT6^[g9Y2
+R3
+R0
+w1719658892
+8D:/pango/MyProject/oscillosope/rtl/divider_32.v
+FD:/pango/MyProject/oscillosope/rtl/divider_32.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vencoder_drive
+R2
+!i10b 1
+!s100 HI]`OiSm?RiXCEVPCm5H]3
+I4<NBcI1_^];ODWUKB5`e63
+R3
+R0
+w1716989316
+8D:/pango/MyProject/oscillosope/rtl/encoder_drive.v
+FD:/pango/MyProject/oscillosope/rtl/encoder_drive.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vf_measure
+R2
+!i10b 1
+!s100 BW<jjMoWiibI7SYSRGIT_2
+IWNfK7WQ7LF4XIT:d1[0Hf1
+R3
+R0
+w1719718917
+8D:/pango/MyProject/oscillosope/rtl/f_measure.v
+FD:/pango/MyProject/oscillosope/rtl/f_measure.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vf_Sa_control
+R2
+!i10b 1
+!s100 WAG51_DNZjL6O>^I8Y?d00
+IgQE6MNolITOI7`J5h5>CC3
+R3
+R0
+w1719675832
+8D:/pango/MyProject/oscillosope/rtl/f_Sa_control.v
+FD:/pango/MyProject/oscillosope/rtl/f_Sa_control.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+nf_@sa_control
+vfifo_rd
+R2
+!i10b 1
+!s100 f7JGFd5A`_9caTQePU4M`0
+IEel4PjQi;^^NAIH];dZg91
+R3
+R0
+Z10 w1719851825
+8D:/pango/MyProject/oscillosope/rtl/fifo_rd.v
+FD:/pango/MyProject/oscillosope/rtl/fifo_rd.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vfifo_wr
+R2
+!i10b 1
+!s100 ZaLc7DaOS;e;S1XFj@WHX3
+I=6z^<B2^265hc6W?Kb6S]1
+R3
+R0
+R10
+8D:/pango/MyProject/oscillosope/rtl/fifo_wr.v
+FD:/pango/MyProject/oscillosope/rtl/fifo_wr.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vforce_trig
+R2
+!i10b 1
+!s100 @aPVUDJ1kl:h6>V3eYMha0
+I?]Q?jC:BnbHjZ1o?4z_n^3
+R3
+R0
+w1719852469
+8D:/pango/MyProject/oscillosope/rtl/force_trig.v
+FD:/pango/MyProject/oscillosope/rtl/force_trig.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vip_fifo
+R2
+!i10b 1
+!s100 <Hd8BBafd]HCSnHPUQH8?3
+ISAf=MT:7kIA?gZNDI0dM;3
+R3
+R0
+w1719890640
+8D:/pango/MyProject/oscillosope/rtl/ip_fifo.v
+FD:/pango/MyProject/oscillosope/rtl/ip_fifo.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vipml_fifo_ctrl_v1_4_async_fifo
+R2
+!i10b 1
+!s100 Q^c38iXF[i7WkS5XcFek;1
+ICFBF3^kAMR`cYnXC^U5@l2
+R3
+R0
+R9
+8D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v
+FD:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v
+L0 22
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vipml_fifo_v1_7_async_fifo
+R2
+!i10b 1
+!s100 XOU5Z04<iRSEmoAD@Lc282
+In2c[45fYhmCn[<6MRS6;Y2
+R3
+R0
+R9
+8D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v
+FD:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v
+L0 23
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vipml_sdpram_v1_6_async_fifo
+R2
+!i10b 1
+!s100 Z`WXh1]O6NKBJ0A@jHVcD1
+Ik7hfP0@^>3ifXSfKQ]MKP0
+R3
+R0
+R9
+8D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v
+FD:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v
+Z11 L0 18
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vkey_debounce
+R2
+!i10b 1
+!s100 a8m@_6kd>WRfKn`kM<d=13
+I>>Ckm_eA4eR`eG`4[EhVP3
+R3
+R0
+w1719726584
+8D:/pango/MyProject/oscillosope/rtl/key_debounce.v
+FD:/pango/MyProject/oscillosope/rtl/key_debounce.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+voutput_shaping
+R2
+!i10b 1
+!s100 goJUkWQ`4On0<c<m`HB^J0
+I:iEcX`zQ1Fn3dD:Z^gPOT2
+R3
+R0
+w1719731412
+8D:/pango/MyProject/oscillosope/rtl/output_shaping.v
+FD:/pango/MyProject/oscillosope/rtl/output_shaping.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vpll_clk
+R2
+!i10b 1
+!s100 l4IML7HlkJ[;JfWi0GJj02
+IRd1QFF_DKV@d@8_:;XkXA2
+R3
+R0
+w1719754380
+8D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v
+FD:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v
+R11
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vspi_drive
+R2
+!i10b 1
+!s100 b24zO748]a=NIHghF@RSI1
+Ioee4m_YYYIVP==SzNQ20G3
+R3
+R0
+w1719720954
+8D:/pango/MyProject/oscillosope/rtl/my_spi_drive.v
+FD:/pango/MyProject/oscillosope/rtl/my_spi_drive.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vstate_control
+R2
+!i10b 1
+!s100 2A>BYEHz4FO6nc:c`FIUK3
+I4Xn:0]K_XB=7l@AKP^7iB0
+R3
+R0
+w1719888165
+8D:/pango/MyProject/oscillosope/rtl/state_control.v
+FD:/pango/MyProject/oscillosope/rtl/state_control.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vtop_module
+R2
+!i10b 1
+!s100 4ECAcSbkA7Zb2DFl<GU5T3
+IdHTcSmE^[KdD@>e;W6aVm2
+R3
+R0
+w1719741170
+8D:/pango/MyProject/oscillosope/rtl/top_module.v
+FD:/pango/MyProject/oscillosope/rtl/top_module.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vtop_module_tb
+R2
+!i10b 1
+!s100 GI7QaGNM;a_Im^G9eLhJ71
+I1K:?ShJ<gkIzC`Z;86Qf_1
+R3
+R0
+w1719853119
+8D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v
+FD:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1

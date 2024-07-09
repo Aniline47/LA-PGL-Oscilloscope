@@ -1,0 +1,183 @@
+# Reading D:/modeltech64_10.7/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.7 Dec  7 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do {run_behav_compile.tcl}
+# ** Error: (vlib-35) Failed to create directory "work".
+# File exists. (errno = EEXIST)
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap usim D:/pango/pango_sim_libraries/usim 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap adc D:/pango/pango_sim_libraries/adc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap ddrc D:/pango/pango_sim_libraries/ddrc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap ddrphy D:/pango/pango_sim_libraries/ddrphy 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap hsst_e2 D:/pango/pango_sim_libraries/hsst_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap iolhr_dft D:/pango/pango_sim_libraries/iolhr_dft 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap ipal_e1 D:/pango/pango_sim_libraries/ipal_e1 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap pciegen2 D:/pango/pango_sim_libraries/pciegen2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+# Start time: 14:58:20 on Jul 02,2024
+# vlog -reportprogress 300 -work work D:/pango/MyProject/oscillosope/rtl/adc_rd.v D:/pango/MyProject/oscillosope/rtl/data_packing.v D:/pango/MyProject/oscillosope/rtl/encoder_drive.v D:/pango/MyProject/oscillosope/rtl/f_Sa_control.v D:/pango/MyProject/oscillosope/rtl/fifo_rd.v D:/pango/MyProject/oscillosope/rtl/fifo_wr.v D:/pango/MyProject/oscillosope/rtl/ip_fifo.v D:/pango/MyProject/oscillosope/rtl/key_debounce.v D:/pango/MyProject/oscillosope/rtl/my_spi_drive.v D:/pango/MyProject/oscillosope/rtl/state_control.v D:/pango/MyProject/oscillosope/rtl/top_module.v D:/pango/MyProject/oscillosope/rtl/force_trig.v D:/pango/MyProject/oscillosope/rtl/f_measure.v D:/pango/MyProject/oscillosope/rtl/divider_32.v D:/pango/MyProject/oscillosope/rtl/output_shaping.v D:/pango/MyProject/oscillosope/prj/ipcore/pll_clk/pll_clk.v D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_ctrl_v1_4_async_fifo.v D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_fifo_v1_7_async_fifo.v D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/async_fifo.v D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v 
+# -- Compiling module adc_rd
+# -- Compiling module data_packing
+# -- Compiling module encoder_drive
+# -- Compiling module f_Sa_control
+# -- Compiling module fifo_rd
+# -- Compiling module fifo_wr
+# -- Compiling module ip_fifo
+# -- Compiling module key_debounce
+# -- Compiling module spi_drive
+# -- Compiling module state_control
+# -- Compiling module top_module
+# -- Compiling module force_trig
+# -- Compiling module f_measure
+# -- Compiling module divider_32
+# -- Compiling module output_shaping
+# -- Compiling module pll_clk
+# -- Compiling module ipml_fifo_ctrl_v1_4_async_fifo
+# -- Compiling module ipml_sdpram_v1_6_async_fifo
+# -- Compiling module ipml_fifo_v1_7_async_fifo
+# -- Compiling module async_fifo
+# -- Compiling module top_module_tb
+# 
+# Top level modules:
+# 	top_module_tb
+# End time: 14:58:20 on Jul 02,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# do {run_behav_simulate.tcl}
+# vsim -novopt -L work -L usim -L adc -L ddrc -L ddrphy -L hsst_e2 -L iolhr_dft -L ipal_e1 -L pciegen2 top_module_tb usim.GTP_GRS 
+# Start time: 14:58:21 on Jul 02,2024
+# ** Error (suppressible): (vsim-12110) All optimizations are disabled because the -novopt option is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features, please see the User's Manual section on Preserving Object Visibility with vopt. -novopt option is now deprecated and will be removed in future releases.
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run_behav_simulate.tcl PAUSED at line 6
+vsim -vopt -L work -L usim -L adc -L ddrc -L ddrphy -L hsst_e2 -L iolhr_dft -L ipal_e1 -L pciegen2 work.top_module_tb -voptargs=+acc
+# vsim -vopt -L work -L usim -L adc -L ddrc -L ddrphy -L hsst_e2 -L iolhr_dft -L ipal_e1 -L pciegen2 work.top_module_tb -voptargs="+acc" 
+# Start time: 14:58:21 on Jul 02,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(511): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(521): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(533): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(543): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(548): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(549): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(706): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(711): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(716): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(728): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(743): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# ** Warning: D:/pango/MyProject/oscillosope/prj/ipcore/async_fifo/rtl/ipml_sdpram_v1_6_async_fifo.v(744): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# ** Note: (vopt-143) Recognized 1 FSM in module "state_control(fast)".
+# ** Note: (vopt-143) Recognized 1 FSM in module "spi_drive(fast)".
+# ** Note: (vopt-143) Recognized 1 FSM in module "ip_fifo(fast)".
+# ** Warning: D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v(205): (vopt-2685) [TFMPC] - Too few port connections for 'top_module'.  Expected 29, found 23.
+# ** Warning: D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v(205): (vopt-2718) [TFMPC] - Missing connection for port 'ad_otr_1'.
+# ** Warning: D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v(205): (vopt-2718) [TFMPC] - Missing connection for port 'spi_data_ready'.
+# ** Warning: D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v(205): (vopt-2718) [TFMPC] - Missing connection for port 'en_force_trig'.
+# ** Warning: D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v(205): (vopt-2718) [TFMPC] - Missing connection for port 'Sa_hold'.
+# ** Warning: D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v(205): (vopt-2718) [TFMPC] - Missing connection for port 'key_auto'.
+# ** Warning: D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v(205): (vopt-2718) [TFMPC] - Missing connection for port 'key_force_trig'.
+# Loading work.top_module_tb(fast)
+# Loading usim.GTP_GRS(fast)
+# Loading work.top_module(fast)
+# Loading work.output_shaping(fast)
+# Loading work.f_measure(fast)
+# Loading work.divider_32(fast)
+# Loading work.force_trig(fast)
+# Loading work.ip_fifo(fast)
+# Loading work.async_fifo(fast)
+# Loading work.ipml_fifo_v1_7_async_fifo(fast)
+# Loading work.ipml_sdpram_v1_6_async_fifo(fast)
+# Loading usim.GTP_DRM9K(fast)
+# Loading work.ipml_fifo_ctrl_v1_4_async_fifo(fast)
+# Loading work.fifo_wr(fast)
+# Loading work.fifo_rd(fast)
+# Loading work.adc_rd(fast)
+# Loading work.data_packing(fast)
+# Loading work.f_Sa_control(fast)
+# Loading work.spi_drive(fast)
+# Loading work.state_control(fast)
+# Loading work.key_debounce(fast)
+# Loading work.encoder_drive(fast)
+# Loading work.pll_clk(fast)
+# Loading usim.GTP_PLL_E3(fast)
+# ** Warning: (vsim-3015) D:/pango/MyProject/oscillosope/sim/tb/top_module_tb.v(205): [PCDPC] - Port size (4) does not match connection size (3) for port 'ampl_state'. The port definition is at: D:/pango/MyProject/oscillosope/rtl/top_module.v(31).
+#    Time: 0 fs  Iteration: 0  Instance: /top_module_tb/top_module File: D:/pango/MyProject/oscillosope/rtl/top_module.v
+# ** Warning: (vsim-3015) D:/pango/MyProject/oscillosope/rtl/top_module.v(67): [PCDPC] - Port size (32) does not match connection size (1) for port 'f_st_re_div_32'. The port definition is at: D:/pango/MyProject/oscillosope/rtl/f_measure.v(6).
+#    Time: 0 fs  Iteration: 0  Instance: /top_module_tb/top_module/u_f_measure File: D:/pango/MyProject/oscillosope/rtl/f_measure.v
+# ** Warning: (vsim-3015) D:/pango/MyProject/oscillosope/rtl/ip_fifo.v(144): [PCDPC] - Port size (10) does not match connection size (8) for port 'fifo_wr_data'. The port definition is at: D:/pango/MyProject/oscillosope/rtl/fifo_wr.v(12).
+#    Time: 0 fs  Iteration: 0  Instance: /top_module_tb/top_module/u_ip_fifo/u_fifo_wr File: D:/pango/MyProject/oscillosope/rtl/fifo_wr.v
+view -new wave
+# .main_pane.wave.interior.cs.body.pw.wf
+add wave -position insertpoint sim:/top_module_tb/top_module/u_ip_fifo/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 15:01:39 on Jul 02,2024, Elapsed time: 0:03:18
+# Errors: 1, Warnings: 22
