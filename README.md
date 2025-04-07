@@ -6,3 +6,5 @@ LA-QT包含 Qt C++代码
 
 PGL-FPGA包含 FPGA Verilog代码
 环境：PDS 2022.2
+
+等啥时候有空了找队友把最新的文件要来一起打包更新上去，再写新的readme（拖延中）
